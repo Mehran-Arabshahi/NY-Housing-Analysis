@@ -2,7 +2,7 @@
 
 ## About Section
 
-This project aims to explore the New York Housing Dataset in order to showcase total price distribution, listing per localities, property for sale distributions, and overall funding in the state of New York. 
+This project aims to explore the New York Housing Dataset in order to showcase total price distribution, listing per localities, property for sale distributions, and overall funding in the state of New York. Furthermore, this dataset was obtained from NIDULA ELGIRIYEWITHANA's New York Housing Market  
 
 ## Purpose Section
 
