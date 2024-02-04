@@ -32,6 +32,6 @@ Obtained from :[New York Housing Market dataset](https://www.kaggle.com/datasets
 | LATITUDE                   | Lattitude Coordinates         |
 | LONGITUDE                  | Longitude Coordinates         |
 
-## Code
+## Code/Visualization
 - Can be found in the sql_queries file
 - [TABLEAU Visualization](https://public.tableau.com/app/profile/mehran.arabshahi/viz/NewYorkHousingAnalysis/Dashboard)
