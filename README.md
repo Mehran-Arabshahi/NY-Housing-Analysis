@@ -10,11 +10,11 @@ The purpose of this project is to get comfortable with exporing datasets. In add
 
 ## Data Used
 
-Obtained from :[New York Housing Market dataset](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)\
+Obtained from :[New York Housing Market dataset](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
 
-| Column                     | Data Type      |
-| :--------------------------| :------------- |
-| BROKERTITLE                | VARCHAR(30)    |
+| Column                     | Description     |
+| :--------------------------| :-------------- |
+| BROKERTITLE                | Title of Broker   |
 | TYPE                       | VARCHAR(5)     |
 | PRICE                      | VARCHAR(30)    |
 | BEDS                       | VARCHAR(30)    |
