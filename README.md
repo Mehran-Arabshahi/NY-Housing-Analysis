@@ -12,23 +12,23 @@ The purpose of this project is to get comfortable with exporing datasets. In add
 
 Obtained from :[New York Housing Market dataset](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market)
 
-| Column                     | Description     |
-| :--------------------------| :-------------- |
-| BROKERTITLE                | Title of Broker   |
-| TYPE                       | VARCHAR(5)     |
-| PRICE                      | VARCHAR(30)    |
-| BEDS                       | VARCHAR(30)    |
-| BATH                       | VARCHAR(10)    |
-| PROPERTYSQFT               | VARCHAR(100)   |
-| ADDRESS                    | DECIMAL(10, 2) |
-| STATE                      | INT            |
-| MAIN_ADDRESS               | FLOAT(6, 4)    |
-| ADMINISTRATIVE_AREA_LEVEL_2| DECIMAL(10, 2) |
-| LOCALITY                   | DATE           |
-| SUBLOCALITY                | TIMESTAMP      |
-| STREET_NAME                | DECIMAL(10, 2) |
-| LONG_NAME                  | DECIMAL(10, 2) |
-| FORMATTED_ADDRESS          | FLOAT(11, 9)   |
-| LATITUDE                   | DECIMAL(10, 2) |
-| LONGITUDE                  | FLOAT(2, 1)    |
+| Column                     | Description                   |
+| :--------------------------| :-----------------------------|
+| BROKERTITLE                | Title of Broker               |
+| TYPE                       | Type of the House             |
+| PRICE                      | Price of the House            |
+| BEDS                       | Number of Bedrooms            |
+| BATH                       | Number of Bathrooms           |
+| PROPERTYSQFT               | Square footage of the property|
+| ADDRESS                    | Full address of the house     |
+| STATE                      | State of the house            |
+| MAIN_ADDRESS               | Main address information      |
+| ADMINISTRATIVE_AREA_LEVEL_2| Administrative area level     |
+| LOCALITY                   | Locality Information          |
+| SUBLOCALITY                | Sublocality Information       |
+| STREET_NAME                | Street Name                   |
+| LONG_NAME                  | Long Name                     |
+| FORMATTED_ADDRESS          | Formatted Address             |
+| LATITUDE                   | Lattitude Coordinates         |
+| LONGITUDE                  | Longitude Coordinates         |
 
