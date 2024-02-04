@@ -22,7 +22,7 @@ Obtained from :[New York Housing Market dataset](https://www.kaggle.com/datasets
 | PROPERTYSQFT               | Square footage of the property|
 | ADDRESS                    | Full address of the house     |
 | STATE                      | State of the house            |
-| MAIN_ADDRESS               | Main address information      |
+| MAIN_ADDRESS               | Main address                  |
 | ADMINISTRATIVE_AREA_LEVEL_2| Administrative area level     |
 | LOCALITY                   | Locality Information          |
 | SUBLOCALITY                | Sublocality Information       |
