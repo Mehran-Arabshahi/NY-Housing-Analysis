@@ -34,4 +34,4 @@ Obtained from :[New York Housing Market dataset](https://www.kaggle.com/datasets
 
 ## Code
 - Can be found in the sql_queries file
-- [TABLEAU Visualization](https://public.tableau.com/app/profile/mehran.arabshahi/vizzes)
+- [TABLEAU Visualization](https://public.tableau.com/app/profile/mehran.arabshahi/viz/NewYorkHousingAnalysis/Dashboard)
