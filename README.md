@@ -2,9 +2,11 @@
 
 ## About Section
 
-This project aims to explore the New York Housing Dataset in order to showcase total price distribution, listing per localities, property for sale distributions, and overall funding in the state of New York. Furthermore, this was obtained from NIDULA ELGIRIYEWITHANA's [New York Housing Market dataset](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market). 
+This project aims to explore the New York Housing Dataset in order to showcase total price distribution, listing per localities, property for sale distributions, and overall funding in the state of New York. Furthermore, this was obtained from NIDULA ELGIRIYEWITHANA's [New York Housing Market dataset](https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market). In order to make this happen I used SQL to showcase the exploration section and tableau for visualization.
 
 ## Purpose Section
 
-The purpose of this project is to get comfortable with exporing datasets like this one. I wanted to challenge myself by using this data and 
+The purpose of this project is to get comfortable with exporing datasets. In addition, this also aim to showcase insight into pricing data as it relates to housing and amenities.
+
+
 
