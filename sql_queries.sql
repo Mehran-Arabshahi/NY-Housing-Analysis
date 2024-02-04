@@ -44,7 +44,6 @@ FROM
 ORDER BY PRICE DESC
 LIMIT 1;
 
-
 -- What is the frequency count for each property?
 
 SELECT 
@@ -53,7 +52,6 @@ FROM
     ny_house_dataset
 GROUP BY TYPE
 ORDER BY frequency DESC
-
 
 -- Which cities in NY are the brokerages located in? Which brokerages have the most? Which ones have the least?
 
@@ -72,8 +70,6 @@ FROM
     ny_house_dataset
 GROUP BY TYPE , PRICE , BEDS , BATH , STREET_NAME
 ORDER BY frequency DESC;
-
-
 
 -- Which type of property has the least amount of square feet?
 
